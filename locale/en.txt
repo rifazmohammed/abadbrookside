@@ -1,0 +1,78 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Abad Brookside, Lakkidyi, Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_10F87493_1C43_2309_41A7_4F14E6E23031.label = Abad Brookside
+album_10F87493_1C43_2309_41A7_4F14E6E23031_0.label = abad-brookside-01
+album_10F87493_1C43_2309_41A7_4F14E6E23031_1.label = abad-brookside-02
+album_10F87493_1C43_2309_41A7_4F14E6E23031_10.label = abad-brookside-12
+album_10F87493_1C43_2309_41A7_4F14E6E23031_11.label = abad-brookside-16
+album_10F87493_1C43_2309_41A7_4F14E6E23031_2.label = abad-brookside-03
+album_10F87493_1C43_2309_41A7_4F14E6E23031_3.label = abad-brookside-04
+album_10F87493_1C43_2309_41A7_4F14E6E23031_4.label = abad-brookside-05
+album_10F87493_1C43_2309_41A7_4F14E6E23031_5.label = abad-brookside-07
+album_10F87493_1C43_2309_41A7_4F14E6E23031_6.label = abad-brookside-08
+album_10F87493_1C43_2309_41A7_4F14E6E23031_7.label = abad-brookside-09
+album_10F87493_1C43_2309_41A7_4F14E6E23031_8.label = abad-brookside-10
+album_10F87493_1C43_2309_41A7_4F14E6E23031_9.label = abad-brookside-11
+panorama_0D9C16D6_1C45_2F0B_419A_3FFB9416C0DC.label = Brookside
+panorama_13D5A08E_1C44_E31B_419E_FFCEB6C6EC2A.label = Brookside
+panorama_13D61DD1_1C47_3D09_41BB_2ACD8219AC34.label = Washroom-Garden Facing Cottage
+panorama_13D62539_1C47_2D79_41BB_CBF3817D4C96.label = Brookside Cottage
+panorama_13D63AE5_1C47_2709_41A2_9A393E8528AA.label = Brookside Cottages
+panorama_13D64EDF_1C47_1F39_41B7_22F9215C9A0C.label = Reception
+panorama_13D651C9_1C47_2519_41B0_36E742EE75D7.label = Washroom - Brookside Cottage
+panorama_13D666A0_1C44_EF07_41BA_A248B14796FB.label = Balcony - Garden Facing Cottage
+panorama_13D67006_1C47_230B_41B0_A96F971496F4.label = Brookside
+panorama_13D67876_1C47_630B_41B4_86D33FCF5E6F.label = Brookside Cottage
+panorama_13D67A55_1C47_6709_41B3_4DE4598EF9F6.label = Sit out - Brookside Cottage
+panorama_13D693F4_1C47_650F_419C_3C4F945DF9ED.label = Restaurant
+panorama_13D697D4_1C47_2D0F_41B6_C2A3C7DE3170.label = Restaurant
+panorama_13D6A14C_1C47_651F_41A5_EB5A19F76CC9.label = Swimming Pool
+panorama_13D6AC39_1C47_E379_41BA_A03136AF6DB3.label = Lobby
+panorama_13D6B013_1C47_2309_41BC_00B8FB21F8FB.label = Garden Area
+panorama_13D6D5F2_1C47_2D0B_4163_99CF1344D5EF.label = Restaurant
+panorama_13D6D9E0_1C47_E507_4195_54FC4040E4B8.label = Restaurant
+panorama_13D79120_1C47_2507_41AA_C45077EDA50B.label = Garden Facing Cottage
+panorama_13D7A48F_1C44_E319_41AB_8C0EA71D7E5F.label = Garden Facing Cottage
+panorama_163F489A_1C43_233B_41AE_F908C44F9A6C.label = Entrance
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_08233B97_1CCD_2509_41BB_1791CF31033E.toolTip = Reastaurant
+HotspotPanoramaOverlayArea_08343F21_1CC5_3D09_41B0_E7410A61D1B3.toolTip = Entrance
+HotspotPanoramaOverlayArea_08FD5FCE_1CC3_FD1B_41AA_CAE068205F68.toolTip = Reception
+HotspotPanoramaOverlayArea_0E580FCB_1FCA_039B_41A7_0F2849D00A38.toolTip = Reception
+HotspotPanoramaOverlayArea_0F9F13E2_1CBD_650B_41A9_9D815A77340B.toolTip = Reception
+HotspotPanoramaOverlayArea_0FDE25AD_1CC7_6D19_4191_B87CCA1E8EF7.toolTip = Lobby
+HotspotPanoramaOverlayArea_103C141F_1FDE_04BB_41B3_58CD3018E480.toolTip = Garden Area
+HotspotPanoramaOverlayArea_10527FD7_1FDA_038B_41BC_F23D9DFEC158.toolTip = Brookside Cottage
+HotspotPanoramaOverlayArea_109243F2_1FCE_0385_41A7_1FE00E2F7249.toolTip = Garden Area
+HotspotPanoramaOverlayArea_10BADEEB_1FCE_059B_41B0_2543ACD95830.toolTip = Brookside
+HotspotPanoramaOverlayArea_11024FF6_1FC6_038D_4194_AA5DD9EC27DF.toolTip = Garden Area
+HotspotPanoramaOverlayArea_1230BE63_1FCA_048A_4176_5D92CB0B61DC.toolTip = Garden Facing Cottage
+HotspotPanoramaOverlayArea_1256DA14_1FCE_0C8D_4171_0D82D5C257FE.toolTip = Reataurant
+HotspotPanoramaOverlayArea_12C80BBA_1FCA_0385_41BD_FD7A2BF6379D.toolTip = Swimming Pool
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.abadhotels.com/resorts-in-wayanad/
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.abadhotels.com/resorts-in-wayanad
